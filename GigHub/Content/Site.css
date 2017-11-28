@@ -87,14 +87,12 @@ h6,
 .form-control {
     font-size: 17px;
     padding: 20px 15px;
-    -ms-border-radius: 9px;
     border-radius: 9px;
 }
 
 .btn {
     font-size: 17px;
     padding: 7px 20px;
-    -ms-border-radius: 9px;
     border-radius: 9px;
 }
 
@@ -119,7 +117,6 @@ h6,
     color: white;
     text-align: center;
     width: 60px;
-    -ms-border-radius: 8px;
     border-radius: 8px;
 }
 
@@ -150,4 +147,4 @@ h6,
 
 .gigs > li .details .genre {
     font-size: 15px;
-}
+} 
